@@ -1,0 +1,4 @@
+noisereduce
+librosa
+soundfile
+numpy
